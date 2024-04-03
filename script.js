@@ -20,6 +20,13 @@ console.log(anoNascimento)
 //exemplo de console.log com concatenação de variaveis
 console.log("Meu nome é:" , nome , ", nasci em:" ,anoNascimento , " e estamos em:" , anoAtual);
 
+// exemplo de conversao aotumatica no javascript
+console.log("-----------------------------------------------------------")
+console.log("Conversão  automatica JavaScript");
+console.log(´conversão 1:´ , ´5´ + 3); 
+
+
+
 
 
 // tipos de dados primitivos JavaScript
